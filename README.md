@@ -8,9 +8,9 @@ Out of the box, NextAuth is tighly coupled to its database providers.  Sequences
 
 The first stage is meant to _request_ a login and have a code sent to the user's email address or mobile number.  They are then redirected to a form which uses the `authorize` function within the Credentials Provider to send the same address to the back end but, this time, with a one-time-use confirmation code.
 
-## Technologies
-
 <img align="right" width="400" src="https://github.com/FredLackey/custom-nextauth-backend/blob/main/assets/images/project.png?raw=true" />
+
+## Technologies
 
 ### Back-End (Private API)
 

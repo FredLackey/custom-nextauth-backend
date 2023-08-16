@@ -12,6 +12,8 @@ The first stage is meant to _request_ a login and have a code sent to the user's
 
 ### Back-End (Private API)
 
+<img align="right" src="/assets/images/project.png" />
+
 * [Fastify](https://fastify.dev/)
 * [MongoDB Atlas](https://www.mongodb.com/atlas)
 * [NodeJS](https://nodejs.org/)

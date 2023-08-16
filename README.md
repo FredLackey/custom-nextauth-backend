@@ -12,7 +12,7 @@ The first stage is meant to _request_ a login and have a code sent to the user's
 
 ### Back-End (Private API)
 
-<img align="right" width="200" src="https://github.com/FredLackey/custom-nextauth-backend/blob/main/assets/images/project.png?raw=true" />
+<img align="right" width="400" src="https://github.com/FredLackey/custom-nextauth-backend/blob/main/assets/images/project.png?raw=true" />
 
 * [Fastify](https://fastify.dev/)
 * [MongoDB Atlas](https://www.mongodb.com/atlas)

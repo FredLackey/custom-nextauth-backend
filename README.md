@@ -10,9 +10,9 @@ The first stage is meant to _request_ a login and have a code sent to the user's
 
 ## Technologies
 
-### Back-End (Private API)
-
 <img align="right" width="400" src="https://github.com/FredLackey/custom-nextauth-backend/blob/main/assets/images/project.png?raw=true" />
+
+### Back-End (Private API)
 
 * [Fastify](https://fastify.dev/)
 * [MongoDB Atlas](https://www.mongodb.com/atlas)
